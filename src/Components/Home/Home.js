@@ -23,8 +23,9 @@ const Home = () => {
                 <div className='ball-image overflow-hidden  lg:w-1/2 flex justify-center order-1 md:order-2 md:justify-end'>
                     <img className='md:hover:animate-spin' src={Ball} width='531px' height='531px' alt="world cup ball" />
                 </div>
-
             </div>
+
+
             <div className='text-center mt-16'>
                 <h1 className='text-4xl font-bold'>Customer Reviews ({users.slice(0, 3).length})</h1>
                 <div className='mt-4'>
@@ -35,6 +36,8 @@ const Home = () => {
                 </div>
 
             </div>
+
+
         </div>
     );
 };
