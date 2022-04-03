@@ -31,7 +31,7 @@ const Home = () => {
                     {users.slice(0, 3).map(user => <UserReviews key={user.id} user={user}></UserReviews>)}
                 </div>
                 <div className='mt-10 py-10'>
-                    <Link to='reviews/' className='bg-blue-400 text-lg text-white px-10 py-4 rounded-lg hover:bg-blue-500'>See All Reviews</Link>
+                    <Link to='/reviews' className='bg-blue-400 text-lg text-white px-10 py-4 rounded-lg hover:bg-blue-500'>See All Reviews</Link>
                 </div>
 
             </div>
