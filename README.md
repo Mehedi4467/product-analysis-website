@@ -1,7 +1,7 @@
 # World Cup Ball 2022
 
-Live Website link: [World cup ball 2022](http://localhost:3000/).\
-[http://localhost:3000/](http://localhost:3000/)
+Live Website link: [World cup ball 2022](https://enchanting-parfait-4cb060.netlify.app/).\
+[https://enchanting-parfait-4cb060.netlify.app/](https://enchanting-parfait-4cb060.netlify.app/)
 
 ## All that has been done in this project
 
