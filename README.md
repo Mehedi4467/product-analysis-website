@@ -1,7 +1,7 @@
 # World Cup Ball 2022
 
-Live Website link: [World cup ball 2022](https://github.com/facebook/create-react-app).\
-[http://localhost:3000](http://localhost:3000)
+Live Website link: [World cup ball 2022](http://localhost:3000/).\
+[http://localhost:3000/](http://localhost:3000/)
 
 ## All that has been done in this project
 
